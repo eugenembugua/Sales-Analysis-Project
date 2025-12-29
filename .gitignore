@@ -1,0 +1,11 @@
+#Data 
+data/*.csv
+
+# Virtual Environment
+sales-venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+*.egg-info/
